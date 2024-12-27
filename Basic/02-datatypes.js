@@ -33,4 +33,10 @@ let myBigInt2 = 1234567890123456789012345678901234567890n
 console.log(myBigInt2)
 
 //Mostramos los tipos de datos.
-console.log(typeof name)
+console.log(typeof name) // String
+console.log(typeof age) // Number 
+console.log(typeof isStudent) // Boolean
+console.log(typeof undefinedValue) // Undefined
+console.log(typeof nullValue) // Object
+console.log(typeof symbolValue) // Symbol
+console.log(typeof myBigInt) // BigInt
